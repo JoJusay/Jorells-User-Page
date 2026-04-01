@@ -41,10 +41,10 @@ I am also in the Spring 2026 Basta COde2Career Mentorship Cohort!
 ## <ins> Plans </ins>
 Here are a few things that I plan to achieve (and some that I have):
 - [X] Get accepted into Code2Career Mentorship
-- [] Land my first internship
+- [ ] Land my first internship
 - [X] Create my first game
-- [] Create my first game using what I learned at UCSD
-- [] Join a game development team
+- [ ] Create my first game using what I learned at UCSD
+- [ ] Join a game development team
 
 ## <ins>Links:</ins>
 - [LinkedIn](https://www.linkedin.com/in/jorell-jusay-041311347/)

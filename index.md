@@ -18,7 +18,7 @@ Hello World! My name is Jorell, and I am (currently) a Computer Science Major at
 A couple of things that I enjoy doing in my spare time include drawing, reading, and cooking. On occassion, as I am still relatively new to it, I will try to sew.
 
 Here's one of my favorite quotes from my favorite book series:
-> "This is the end [of the book]. However, just because it is the end doesn't mean you've seen the whole story. Read it again. If you read it again, it will definitely be a differeny story."
+> "This is the end [of the book]. However, just because it is the end doesn't mean you've seen the whole story. Read it again. If you read it again, it will definitely be a differeny story." (Omniscient Reader's Viewpoint, singNsong)
 
 ### Programming History
 For my preferred language, refer to [README](README.md).
